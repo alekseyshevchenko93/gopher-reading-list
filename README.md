@@ -44,7 +44,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
 - [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
 - [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/) V
-- [Different Ways to Initialize Go structs](https://asankov.dev/blog/2022/01/29/different-ways-to-initialize-go-structs/)
+- [Different Ways to Initialize Go structs](https://asankov.dev/blog/2022/01/29/different-ways-to-initialize-go-structs/) V
 
 ### Worth reading, again and again
 
