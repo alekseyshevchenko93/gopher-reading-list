@@ -91,9 +91,9 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Go Modules
 
-- [Introduction to Go modules](https://roberto.selbach.ca/intro-to-go-modules/)
-- [Using Go Modules](https://blog.golang.org/using-go-modules)
-- [Modules Part 01: Why And What](https://www.ardanlabs.com/blog/2019/10/modules-01-why-and-what.html)
+- [Introduction to Go modules](https://roberto.selbach.ca/intro-to-go-modules/) V
+- [Using Go Modules](https://blog.golang.org/using-go-modules) V
+- [Modules Part 01: Why And What](https://www.ardanlabs.com/blog/2019/10/modules-01-why-and-what.html) V
 
 ## Intermediate
 
