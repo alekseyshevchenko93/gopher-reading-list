@@ -35,7 +35,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 ### Some basics
 
 - [Understand Go pointers in less than 800 words or your money back](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back) V
-- [Don't fear the pointer](https://bitfieldconsulting.com/golang/pointers)
+- [Don't fear the pointer](https://bitfieldconsulting.com/golang/pointers) V
 - [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms) V
 - [Golang channels tutorial](https://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [Common Gotchas in Go](https://divan.dev/posts/avoid_gotchas/)
