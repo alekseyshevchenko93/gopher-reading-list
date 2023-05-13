@@ -57,8 +57,8 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 - [Less is exponentially more](https://commandcenter.blogspot.com.br/2012/06/less-is-exponentially-more.html)
-- [Go Proverbs](https://go-proverbs.github.io/)
-- [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+- [Go Proverbs](https://go-proverbs.github.io/) V
+- [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) V
 - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 - [Error handling and Go](https://blog.golang.org/error-handling-and-go)
 - [Go's Error Handling is Elegant](https://davidnix.io/posts/error-handling-in-go/)
