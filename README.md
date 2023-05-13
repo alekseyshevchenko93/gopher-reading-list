@@ -87,7 +87,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 ### Concurrency
 
 - [Learning Go's Concurrency Through Illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3)
-- [Go’s append is not always thread safe](https://medium.com/@cep21/gos-append-is-not-always-thread-safe-a3034db7975)
+- [Go’s append is not always thread safe](https://medium.com/@cep21/gos-append-is-not-always-thread-safe-a3034db7975) V
 
 ### Go Modules
 
