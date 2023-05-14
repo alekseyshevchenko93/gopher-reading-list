@@ -60,7 +60,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Go Proverbs](https://go-proverbs.github.io/) V
 - [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) V
 - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
-- [Error handling and Go](https://blog.golang.org/error-handling-and-go)
+- [Error handling and Go](https://blog.golang.org/error-handling-and-go) V
 - [Go's Error Handling is Elegant](https://davidnix.io/posts/error-handling-in-go/) V
 - [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 - [Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
