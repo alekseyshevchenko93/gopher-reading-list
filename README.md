@@ -117,7 +117,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Concurrency
 
-- [Concurrency Patterns](https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833)
+- [Concurrency Patterns](https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833) V
 - [Stopping goroutines](https://medium.com/@matryer/stopping-goroutines-golang-1bf28799c1cb) V
 - [Make Ctrl+C cancel the context.Context](https://medium.com/@matryer/make-ctrl-c-cancel-the-context-context-bd006a8ad6ff) V
 - [How to correctly use context.Context in Go 1.7](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39#.bdz5qnna7) V
