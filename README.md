@@ -74,15 +74,15 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Web
 
-- [Creating My First Web Application with Go](https://www.rosie.dev/post/building-a-web-app-with-go/)
-- [Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/)
-- [Serving static files and web apps in Go](https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go/)
-- [An Intro To Templates in Go](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/)
-- [JSON APIs Are Just Web Applications](https://www.calhoun.io/apis-are-just-web-applications/)
-- [Writing middleware in #golang and how Go makes it so much fun](https://medium.com/@matryer/writing-middleware-in-golang-and-how-go-makes-it-so-much-fun-4375c1246e81)
-- [Go and JSON](https://eager.io/blog/go-and-json/)
-- [Accessing data in Go](https://husio.github.io/blog/accessing-data-in-go/)
-- [How to Use //go:embed](https://blog.carlmjohnson.net/post/2021/how-to-use-go-embed/)
+- [Creating My First Web Application with Go](https://www.rosie.dev/post/building-a-web-app-with-go/) V
+- [Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/) V 
+- [Serving static files and web apps in Go](https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go/) V 
+- [An Intro To Templates in Go](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/) V
+- [JSON APIs Are Just Web Applications](https://www.calhoun.io/apis-are-just-web-applications/) V
+- [Writing middleware in #golang and how Go makes it so much fun](https://medium.com/@matryer/writing-middleware-in-golang-and-how-go-makes-it-so-much-fun-4375c1246e81) V
+- [Go and JSON](https://eager.io/blog/go-and-json/) V
+- [Accessing data in Go](https://husio.github.io/blog/accessing-data-in-go/) V
+- [How to Use //go:embed](https://blog.carlmjohnson.net/post/2021/how-to-use-go-embed/) 
 
 ### Concurrency
 
