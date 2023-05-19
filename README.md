@@ -66,7 +66,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
 - [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c)
 - [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
-- [Packages as layers, not groups](https://www.gobeyond.dev/packages-as-layers/)
+- [Packages as layers, not groups](https://www.gobeyond.dev/packages-as-layers/) V
 - [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
 - [Package names](https://blog.golang.org/package-names)
@@ -118,13 +118,13 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 ### Concurrency
 
 - [Concurrency Patterns](https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833)
-- [Stopping goroutines](https://medium.com/@matryer/stopping-goroutines-golang-1bf28799c1cb)
-- [Make Ctrl+C cancel the context.Context](https://medium.com/@matryer/make-ctrl-c-cancel-the-context-context-bd006a8ad6ff)
-- [How to correctly use context.Context in Go 1.7](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39#.bdz5qnna7)
-- [Using contexts to avoid leaking goroutines](https://rakyll.org/leakingctx/)
+- [Stopping goroutines](https://medium.com/@matryer/stopping-goroutines-golang-1bf28799c1cb) V
+- [Make Ctrl+C cancel the context.Context](https://medium.com/@matryer/make-ctrl-c-cancel-the-context-context-bd006a8ad6ff) V
+- [How to correctly use context.Context in Go 1.7](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39#.bdz5qnna7) V
+- [Using contexts to avoid leaking goroutines](https://rakyll.org/leakingctx/) V
 - [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
-- [Tutorial: Synchronizing State with Mutexes in Go](https://kylewbanks.com/blog/tutorial-synchronizing-state-with-mutexes-golang)
-- [Context and Cancellation of goroutines](https://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines/)
+- [Tutorial: Synchronizing State with Mutexes in Go](https://kylewbanks.com/blog/tutorial-synchronizing-state-with-mutexes-golang) V
+- [Context and Cancellation of goroutines](https://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines/) V
 - [Dancing with Go's Mutexes](https://hackernoon.com/dancing-with-go-s-mutexes-92407ae927bf)
 - [GoRoutines, Channels, and Proper Exits](https://rabarar.github.io/blog/2015/02/17/goroutines-channels/)
 - [How to Block Forever in Go](https://blog.sgmansfield.com/2016/06/how-to-block-forever-in-go/)
