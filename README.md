@@ -65,7 +65,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors) V
 - [Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
 - [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c) V
-- [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
+- [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1) V
 - [Packages as layers, not groups](https://www.gobeyond.dev/packages-as-layers/) V
 - [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
