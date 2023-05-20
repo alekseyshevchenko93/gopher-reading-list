@@ -130,7 +130,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [How to Block Forever in Go](https://blog.sgmansfield.com/2016/06/how-to-block-forever-in-go/) V
 - [Mutex Profile](https://rakyll.org/mutexprofile/)
 - [Sane Concurrency with Go](https://blog.mozilla.org/services/2014/03/12/sane-concurrency-with-go/)
-- [Error handling patterns in Go](https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/)
+- [Error handling patterns in Go](https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/) V
 - [Does the race detector catch all data races?](https://medium.com/@val_deleplace/does-the-race-detector-catch-all-data-races-1afed51d57fb)
 - [Interesting ways of using Go channels](http://nomad.uk.net/articles/interesting-ways-of-using-go-channels.html)
 - [Code Review Checklist: Go concurrency](https://github.com/code-review-checklists/go-concurrency)
