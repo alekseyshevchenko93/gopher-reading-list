@@ -40,7 +40,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Golang channels tutorial](https://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [Common Gotchas in Go](https://divan.dev/posts/avoid_gotchas/) V
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
-- [Slices from the ground up](https://dave.cheney.net/2018/07/12/slices-from-the-ground-up)
+- [Slices from the ground up](https://dave.cheney.net/2018/07/12/slices-from-the-ground-up) V
 - [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/) V
 - [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff) V
 - [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/) V
