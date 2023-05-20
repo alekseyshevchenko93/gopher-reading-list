@@ -38,7 +38,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Don't fear the pointer](https://bitfieldconsulting.com/golang/pointers) V
 - [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms) V
 - [Golang channels tutorial](https://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
-- [Common Gotchas in Go](https://divan.dev/posts/avoid_gotchas/)
+- [Common Gotchas in Go](https://divan.dev/posts/avoid_gotchas/) V
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [Slices from the ground up](https://dave.cheney.net/2018/07/12/slices-from-the-ground-up)
 - [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/) V
