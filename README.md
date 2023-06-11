@@ -55,11 +55,11 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Organization and Style
 
-- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) V
 - [Less is exponentially more](https://commandcenter.blogspot.com.br/2012/06/less-is-exponentially-more.html)
 - [Go Proverbs](https://go-proverbs.github.io/) V
 - [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) V
-- [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
+- [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go) V
 - [Error handling and Go](https://blog.golang.org/error-handling-and-go) V
 - [Go's Error Handling is Elegant](https://davidnix.io/posts/error-handling-in-go/) V
 - [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors) V
@@ -67,10 +67,10 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c) V
 - [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1) V
 - [Packages as layers, not groups](https://www.gobeyond.dev/packages-as-layers/) V
-- [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
-- [Style guideline for Go packages](https://rakyll.org/style-packages/)
-- [Package names](https://blog.golang.org/package-names)
-- [What's in a name (slides)](https://talks.golang.org/2014/names.slide#1)
+- [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091) V
+- [Style guideline for Go packages](https://rakyll.org/style-packages/) V
+- [Package names](https://blog.golang.org/package-names) V
+- [What's in a name (slides)](https://talks.golang.org/2014/names.slide#1) V
 
 ### Web
 
