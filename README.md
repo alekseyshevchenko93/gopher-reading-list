@@ -125,7 +125,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
 - [Tutorial: Synchronizing State with Mutexes in Go](https://kylewbanks.com/blog/tutorial-synchronizing-state-with-mutexes-golang) V
 - [Context and Cancellation of goroutines](https://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines/) V
-- [Dancing with Go's Mutexes](https://hackernoon.com/dancing-with-go-s-mutexes-92407ae927bf)
+- [Dancing with Go's Mutexes](https://hackernoon.com/dancing-with-go-s-mutexes-92407ae927bf) V
 - [GoRoutines, Channels, and Proper Exits](https://rabarar.github.io/blog/2015/02/17/goroutines-channels/) V
 - [How to Block Forever in Go](https://blog.sgmansfield.com/2016/06/how-to-block-forever-in-go/) V
 - [Mutex Profile](https://rakyll.org/mutexprofile/)
