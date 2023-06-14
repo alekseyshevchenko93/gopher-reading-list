@@ -99,7 +99,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Code Design
 
-- [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
+- [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/) V
 - [Aspects of a good Go library](https://medium.com/@cep21/aspects-of-a-good-go-library-7082beabb403)
 - [Solid Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
