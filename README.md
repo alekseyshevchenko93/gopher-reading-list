@@ -156,10 +156,10 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 ### Web
 
 - [Go for Cloud](https://rakyll.org/go-cloud/)
-- [Exposing Go on the Internet](https://blog.gopheracademy.com/advent-2016/exposing-go-on-the-internet/)
+- [Exposing Go on the Internet](https://blog.gopheracademy.com/advent-2016/exposing-go-on-the-internet/) V
 - [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
 - [HTTP(S) Proxy in Golang in less than 100 lines of code](https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c)
-- [Write a Kubernetes-ready service from zero step-by-step](https://blog.gopheracademy.com/advent-2017/kubernetes-ready-service/)
+- [Write a Kubernetes-ready service from zero step-by-step](https://blog.gopheracademy.com/advent-2017/kubernetes-ready-service/) V
 - [A brief intro of TCP keep-alive in Go’s HTTP implementation](https://nanxiao.me/en/a-brief-intro-of-tcp-keep-alive-in-gos-http-implementation/)
 - [Build a Web Crawler in Go](https://jackcanty.com/build-a-web-crawler-in-go.html)
 - [Your pprof is showing: IPv4 scans reveal exposed net/http/pprof endpoints:](https://mmcloughlin.com/posts/your-pprof-is-showing)
