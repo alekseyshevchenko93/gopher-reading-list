@@ -139,7 +139,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Testing
 
-- [Testing Web Apps in Go](https://markjberger.com/testing-web-apps-in-golang/)
+- [Testing Web Apps in Go](https://markjberger.com/testing-web-apps-in-golang/) V
 - [An Introduction to Testing in Go](https://tutorialedge.net/golang/intro-testing-in-go/)
 - [5 simple tips and tricks for writing unit tests in #golang](https://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742)
 - [5 Advanced Testing Techniques in Go](https://segment.com/blog/5-advanced-testing-techniques-in-go/)
