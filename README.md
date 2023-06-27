@@ -104,7 +104,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Solid Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
 - [Failure is your Domain](https://middlemost.com/failure-is-your-domain/)
-- [What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8)
+- [What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8) V
 - [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/)
 - [How to organize the go struct, in order to save memory](https://medium.com/@felipedutratine/how-to-organize-the-go-struct-in-order-to-save-memory-c78afcf59ec2)
 - [Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
