@@ -145,7 +145,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [5 Advanced Testing Techniques in Go](https://segment.com/blog/5-advanced-testing-techniques-in-go/)
 - [Interfaces and Composition for Effective Unit Testing in Golang](https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/)
 - [Go Testing Technique: Testing JSON HTTP Requests](https://medium.com/@xoen/go-testing-technique-testing-json-http-requests-76d9ce0e11f#.95p1r8n16)
-- [Testing Your (HTTP) Handlers in Go](https://blog.questionable.services/article/testing-http-handlers-go/)
+- [Testing Your (HTTP) Handlers in Go](https://blog.questionable.services/article/testing-http-handlers-go/) V
 - [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
 - [Lesser-Known Features of Go Test](https://splice.com/blog/lesser-known-features-go-test/)
 - [When Writing Unit Tests, Don’t Use Mocks](https://sendgrid.com/blog/when-writing-unit-tests-dont-use-mocks/)
