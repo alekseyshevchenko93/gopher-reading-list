@@ -187,12 +187,12 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Tools
 
-- [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
-- [Go tooling essentials](https://rakyll.org/go-tool-flags/)
+- [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling) V
+- [Go tooling essentials](https://rakyll.org/go-tool-flags/) V
 - [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
 - [Go Tooling in Action](https://medium.com/google-cloud/go-tooling-in-action-eca6882ff3bc#.d9ob4wyj4)
-- [Statically compiling Go programs](https://www.arp242.net/static-go.html)
-- [Tutorial: Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz)
+- [Statically compiling Go programs](https://www.arp242.net/static-go.html) V
+- [Tutorial: Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz) V
 - [Go mod's lesser known features](https://verdverm.com/go-mods/)
 - [A comprehensive guide to go generate](https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate/)
 
