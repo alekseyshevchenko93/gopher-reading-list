@@ -270,7 +270,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Go code refactoring : the 23x performance hunt](https://medium.com/@val_deleplace/go-code-refactoring-the-23x-performance-hunt-156746b522f7)
 - [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [go-perfbook](https://github.com/dgryski/go-perfbook)
-- [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
+- [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements) V
 - [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html)
 - [Reducing Memory Allocations in Golang](https://chris124567.github.io/2021-06-21-go-performance/)
 
