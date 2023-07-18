@@ -214,7 +214,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 - [Golang: pass by pointer vs pass by value](https://goinbigdata.com/golang-pass-by-pointer-vs-pass-by-value/)
 - [There is no pass-by-reference in Go](https://dave.cheney.net/2017/04/29/there-is-no-pass-by-reference-in-go)
-- [Variadic functions in Go](https://medium.com/golangspec/variadic-functions-in-go-13c33182b851)
+- [Variadic functions in Go](https://medium.com/golangspec/variadic-functions-in-go-13c33182b851) V
 - [Function Types in Go (golang)](https://jordanorelli.com/post/42369331748/function-types-in-go-golang)
 - [research!rsc: Go Data Structures](https://research.swtch.com/godata)
 - [The Relationship Between Interfaces and Reflection](https://blog.gopheracademy.com/advent-2018/interfaces-and-reflect/)
