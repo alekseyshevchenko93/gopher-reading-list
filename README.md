@@ -233,7 +233,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [How to Use go:generate](https://blog.carlmjohnson.net/post/2016-11-27-how-to-use-go-generate/)
 - [Writing worker queues, in Go](https://nesv.github.io/golang/2014/02/25/worker-queues-in-go.html)
 - [Job Queues in Go - OpsDash](https://www.opsdash.com/blog/job-queues-in-go.html)
-- [Reading files in Go](https://kgrz.io/reading-files-in-go-an-overview.html)
+- [Reading files in Go](https://kgrz.io/reading-files-in-go-an-overview.html) V
 - [Vanity Go Import Paths](https://blog.bramp.net/post/2017/10/02/vanity-go-import-paths/)
 - [Tags in Golang](https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e)
 - [Handling Errors from Deferred Functions in Go](https://trstringer.com/golang-deferred-function-error-handling/)
