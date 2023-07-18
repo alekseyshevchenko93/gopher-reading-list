@@ -198,7 +198,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Trivia
 
-- [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide)
+- [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide) V
 - [Advanced Go Tips And Tricks](https://scene-si.org/2016/06/13/advanced-go-tips-and-tricks/) V
 - [Golang slices gotcha](https://allegro.tech/2017/07/golang-slices-gotcha.html)
 
