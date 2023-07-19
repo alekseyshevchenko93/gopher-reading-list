@@ -103,7 +103,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Aspects of a good Go library](https://medium.com/@cep21/aspects-of-a-good-go-library-7082beabb403) V
 - [Solid Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
-- [Failure is your Domain](https://middlemost.com/failure-is-your-domain/)
+- [Failure is your Domain](https://middlemost.com/failure-is-your-domain/) V
 - [What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8) V
 - [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/) V
 - [How to organize the go struct, in order to save memory](https://medium.com/@felipedutratine/how-to-organize-the-go-struct-in-order-to-save-memory-c78afcf59ec2) V
